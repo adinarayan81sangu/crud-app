@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "hanuman",
+      "lastName": "daram",
+      "email": "hanuman@gmail.com",
+      "mobile": 7867564536,
+      "salary": "57899"
+    },
+    {
+      "id": 3,
+      "firstName": "kittu",
+      "lastName": "daram",
+      "email": "kittu@gmail.com",
+      "mobile": 8985671913,
+      "salary": "3569800"
+    },
+    {
+      "id": 5,
+      "firstName": "g",
+      "lastName": "reddy",
+      "email": "lohit@gmail.com",
+      "mobile": 7856123456,
+      "salary": "200"
+    },
+    {
+      "id": 6,
+      "firstName": "ketan",
+      "lastName": "reddy",
+      "email": "hyh",
+      "mobile": 780666899,
+      "salary": "7788"
+    },
+    {
+      "id": 7,
+      "firstName": "jfgjh",
+      "lastName": "fghfg",
+      "email": "drrd",
+      "mobile": 567,
+      "salary": "2425"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
